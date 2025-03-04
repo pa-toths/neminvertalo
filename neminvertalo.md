@@ -24,7 +24,8 @@
 
 ## Kapcsolas:
 - A kapcsolási rajz az allábi linken található: 
-- Kapcsolási rajz megvalósitása:![unnamed](https://github.com/user-attachments/assets/b901e10f-d87d-45e8-ab25-347467ef3ad1)
+- Kapcsolási rajz megvalósitása: ![invertalo](https://github.com/user-attachments/assets/14d6de94-04d7-43ce-a639-977e3d56be11)
+
 
 ---
 
