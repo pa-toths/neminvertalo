@@ -1,9 +1,9 @@
 # Nem invertáló műveleti erősitő
 ---  
-- Mérést végezte: Kiss Patrik
-- Mérés helye: Villamos 3 labor
-- Mérés ideje: 2025.02.04.
-- Csoport: 12.D/1
+- Mérést végezte: Tóth Sándor    
+- Mérés helye: V3 labor
+- Mérés ideje: 2025.02.25.
+- Csoport: 12.D
 
 
 ---   
@@ -24,8 +24,7 @@
 
 ## Kapcsolas:
 - A kapcsolási rajz az allábi linken található: 
-- Kapcsolási rajz megvalósitása:
-  ![invertalo](https://github.com/user-attachments/assets/14d6de94-04d7-43ce-a639-977e3d56be11)
+- Kapcsolási rajz megvalósitása:    ![invertalo](https://github.com/user-attachments/assets/14d6de94-04d7-43ce-a639-977e3d56be11)
 
 
 ---
